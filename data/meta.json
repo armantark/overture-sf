@@ -1,0 +1,26 @@
+{
+  "release": "2026-08-19.0",
+  "bbox": [
+    -122.517,
+    37.7,
+    -122.355,
+    37.84
+  ],
+  "cell_meters": 200,
+  "lon_step": 0.0022728365640954018,
+  "lat_step": 0.0017966223499820337,
+  "storefront_roots": [
+    "food_and_drink",
+    "shopping",
+    "lifestyle_services",
+    "arts_and_entertainment",
+    "sports_and_recreation"
+  ],
+  "storefront_confidence_floor": 0.5,
+  "label_max_distance_m": 1500,
+  "label_min_margin": 1.05,
+  "counts": {
+    "places": 56933,
+    "cells": 3472
+  }
+}

@@ -1,0 +1,13 @@
+cookies.txt
+headers.txt
+page.html
+data-pipeline/.venv/
+data-pipeline/probe*.py
+node_modules/
+.env
+web/node_modules/
+web/dist/
+api/.venv/
+data-pipeline/__pycache__/
+**/__pycache__/
+.pytest_cache/
